@@ -58,7 +58,7 @@
           </thead>
           <tbody>
             <tr><td>최종 결과보고서</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/reports/hanmaum-final-report.pdf">PDF 다운로드</a></td></tr>
-            <tr><td>졸업작품 포스터</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/poster.png">PNG 보기</a></td></tr>
+            <tr><td>졸업작품 포스터</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/hanmaum_poster.png">PNG 보기</a></td></tr>
           </tbody>
         </table>
       </td>

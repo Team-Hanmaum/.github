@@ -39,3 +39,19 @@
 </table>
 
 <p align="center"><strong>흩어진 소식은 하나로, 돌봄은 한마음으로.</strong></p>
+
+## 프로젝트 바로가기
+
+<p align="center">
+  <strong>결과물</strong> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/reports/hanmaum-final-report.pdf">최종 결과보고서 PDF 다운로드</a> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/poster.png">졸업작품 포스터 PNG 보기</a>
+</p>
+
+<p align="center">
+  <strong>개발 저장소</strong> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-frontend">Frontend</a> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-backend">Backend</a> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-ai">AI</a> ·
+  <a href="https://github.com/Team-Hanmaum/hanmaum-docs">Docs</a>
+</p>

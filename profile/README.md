@@ -42,18 +42,39 @@
 
 ## 프로젝트 바로가기
 
-### 결과물
-
-| 문서 | 링크 |
-| --- | --- |
-| 최종 결과보고서 | [PDF 다운로드](https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/reports/hanmaum-final-report.pdf) |
-| 졸업작품 포스터 | [PNG 보기](https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/poster.png) |
-
-### 개발 저장소
-
-| 영역 | 저장소 |
-| --- | --- |
-| Frontend | [hanmaum-frontend](https://github.com/Team-Hanmaum/hanmaum-frontend) |
-| Backend | [hanmaum-backend](https://github.com/Team-Hanmaum/hanmaum-backend) |
-| AI | [hanmaum-ai](https://github.com/Team-Hanmaum/hanmaum-ai) |
-| Docs | [hanmaum-docs](https://github.com/Team-Hanmaum/hanmaum-docs) |
+<table>
+  <thead>
+    <tr>
+      <th scope="col">결과물</th>
+      <th scope="col">개발 저장소</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <table>
+          <thead>
+            <tr><th scope="col">문서</th><th scope="col">링크</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>최종 결과보고서</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/reports/hanmaum-final-report.pdf">PDF 다운로드</a></td></tr>
+            <tr><td>졸업작품 포스터</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/poster.png">PNG 보기</a></td></tr>
+          </tbody>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <thead>
+            <tr><th scope="col">영역</th><th scope="col">저장소</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Frontend</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-frontend">hanmaum-frontend</a></td></tr>
+            <tr><td>Backend</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-backend">hanmaum-backend</a></td></tr>
+            <tr><td>AI</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-ai">hanmaum-ai</a></td></tr>
+            <tr><td>Docs</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs">hanmaum-docs</a></td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>

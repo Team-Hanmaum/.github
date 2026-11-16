@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/Team-Hanmaum/.github/main/assets/06-start.png" width="100%" align="top" alt="한마음, 직접 사용해 보세요. 서비스 접속 QR 코드" />
 </p>
 
-## 함께 만드는 사람들
+## ♥️ 심장이 두근두근두바이 ♥️ 팀원
 
 <table align="center">
   <thead>

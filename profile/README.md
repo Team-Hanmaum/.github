@@ -59,6 +59,7 @@
           <tbody>
             <tr><td>최종 결과보고서</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/reports/hanmaum-final-report.pdf">PDF 다운로드</a></td></tr>
             <tr><td>졸업작품 포스터</td><td><a href="https://github.com/Team-Hanmaum/hanmaum-docs/blob/main/presentation/hanmaum_poster.png">PNG 보기</a></td></tr>
+            <tr><td>시연 영상</td><td><a href="https://youtu.be/ZV85RNDNapc">유튜브</a> · <a href="https://drive.google.com/file/d/1XrdsLAh_Q__EN4v-qdqcfzxiBLlVclDB/view?usp=drivesdk">구글 드라이브</a></td></tr>
           </tbody>
         </table>
       </td>
